@@ -1,0 +1,8 @@
+Run 1:
+The pseudorandom month is MAY
+Run 2:
+The pseudorandom month is JANUARY
+Run 3:
+The pseudorandom month is DECEMBER
+Run 4:
+The pseudorandom month is APRIL

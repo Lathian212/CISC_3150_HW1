@@ -1,0 +1,19 @@
+Enter the starting investment amount:100
+Enter the annual interest rate:0.10
+Enter the number of years the investment accrues:10
+invest_value = invest_amount * (1 + monthly_interest_rate)^(num_years*12) = 270.70
+
+Enter the starting investment amount:100
+Enter the annual interest rate:0.0
+Enter the number of years the investment accrues:20
+invest_value = invest_amount * (1 + monthly_interest_rate)^(num_years*12) = 100.00
+
+Enter the starting investment amount:100
+Enter the annual interest rate:-.10
+Enter the number of years the investment accrues:5
+invest_value = invest_amount * (1 + monthly_interest_rate)^(num_years*12) = 60.53
+
+Enter the starting investment amount:1250
+Enter the annual interest rate:0.67
+Enter the number of years the investment accrues:5
+invest_value = invest_amount * (1 + monthly_interest_rate)^(num_years*12) = 32556.08

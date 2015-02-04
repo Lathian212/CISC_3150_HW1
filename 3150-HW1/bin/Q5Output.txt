@@ -1,0 +1,24 @@
+Run 1:
+The lottery num for testing purposes is = 823
+Please enter your guess for the lottery number: 823
+You won! An exact match! $10,000 is yours!
+
+Run 2:
+The lottery num for testing purposes is = 516
+Please enter your guess for the lottery number: 651
+You won! All three numbers but out of order.! $3,000 is yours!
+
+Run 3:
+The lottery num for testing purposes is = 361
+Please enter your guess for the lottery number: 138
+You won! You got two numbers.! $2,000 is yours!
+
+Run 4:
+The lottery num for testing purposes is = 990
+Please enter your guess for the lottery number: 808
+You won! You got one number.! $1,000 is yours!
+
+Run 5:
+The lottery num for testing purposes is = 267
+Please enter your guess for the lottery number: 111
+You lose SUCKER! Didn't your mommy ever explain statistics to ya?

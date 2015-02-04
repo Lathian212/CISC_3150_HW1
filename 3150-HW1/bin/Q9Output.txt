@@ -1,0 +1,33 @@
+Run 1:
+For debugging purposes the random number is: 27
+You have entered a number guessing game, guess an integer between 1 and 100: 100
+The random int is lower then that. Guess again: 50
+The random int is lower then that. Guess again: 25
+The random int is greater the that. Guess again:26
+The random int is greater the that. Guess again:27
+Horay! You guessed it the number was 27!
+
+Run 2:
+For debugging purposes the random number is: 53
+You have entered a number guessing game, guess an integer between 1 and 100: 1
+The random int is greater the that. Guess again:50
+The random int is greater the that. Guess again:70
+The random int is lower then that. Guess again: 60
+The random int is lower then that. Guess again: 55
+The random int is lower then that. Guess again: 54
+The random int is lower then that. Guess again: 53
+Horay! You guessed it the number was 53!
+
+Run 3:
+For debugging purposes the random number is: 22
+You have entered a number guessing game, guess an integer between 1 and 100: -22
+The random int is greater the that. Guess again:200
+The random int is lower then that. Guess again: 100
+The random int is lower then that. Guess again: 50
+The random int is lower then that. Guess again: 33
+The random int is lower then that. Guess again: 25
+The random int is lower then that. Guess again: 24
+The random int is lower then that. Guess again: 24
+The random int is lower then that. Guess again: 23
+The random int is lower then that. Guess again: 22
+Horay! You guessed it the number was 22!
